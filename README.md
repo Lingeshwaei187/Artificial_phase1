@@ -8,3 +8,4 @@ By utilizing sentiment analysis, marketers can make informed decisions on variou
 In this introduction to sentiment analysis for marketing, we'll explore the key concepts, tools, and applications of sentiment analysis in the context of marketing. Whether you're looking to better understand customer sentiment, improve your brand's reputation, or optimize your marketing strategies, sentiment analysis is a valuable technique that can help you achieve these goals and more.
 
 
+[Uploading sentiment analysis (1).pdf…]()
